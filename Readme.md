@@ -1,2 +1,1 @@
-#  This project is about a self screening resume analyzer
-
+#  This project is about a self screening resume analyzer.
