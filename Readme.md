@@ -1,3 +1,2 @@
-#  this is a hire me project t
+#  This project is about a self screening resume analyzer
 
-## hire me
